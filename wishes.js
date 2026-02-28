@@ -36,22 +36,27 @@ if (localStorage.getItem('musicPlaying') === 'true') {
 // - gif: Animation file to show (optional, use animation-1.gif or animation-2.gif)
 const reasons = [
     {
-        text: "Because you always know how to make me smile! 💖",
+        text: "On this day, Heaven repeated a masterpiece—your life remains one of God’s most thoughtful compositions, and I’m grateful to witness it unfold! 💖",
         emoji: "✨",
         gif: "gif1.gif"
     },
     {
-        text: "Because you're the best listener I know! 🌸",
+        text: "You age not merely in years, but in grace, wisdom, and quiet strength; may this new chapter read even more beautifully than the last! 🌸",
         emoji: "💫",
         gif: "gif2.gif"
     },
     {
-        text: "Because your laugh is contagious! ✨",
+        text: "Today I celebrate the mind that thinks deeply, the heart that loves purely, and the soul that keeps choosing light! ✨",
         emoji: "🌟",
         gif: "gif1.gif"
     },
     {
-        text: "Because you make every moment special! 🎂",
+        text: "May God crown this year with clarity, protect your softness, and reward the faithfulness you carry so effortlessly! 🎂",
+        emoji: "💖",
+        gif: "gif2.gif"
+    },
+    {
+        text: "If birthdays measure impact, then yours measures lives changed—mine included, in ways words can only attempt to honor! 🎂",
         emoji: "💖",
         gif: "gif2.gif"
     },
